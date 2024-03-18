@@ -13,4 +13,3 @@ def powers_of_two(N):
 N = int(input("Введите число N: "))
 print("Целые степени двойки, не превосходящие", N, ":")
 print(powers_of_two(N))
-
